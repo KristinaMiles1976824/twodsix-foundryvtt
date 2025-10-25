@@ -21,3 +21,5 @@ Twodsix has been translated by users of the system into the following languages:
 * [The user_macros wiki](https://github.com/xdy/twodsix-foundryvtt/wiki/User-Macros) contains useful information about macros contained in the compendium Macros are no longer maintained on GitHub.
 * The release notes in #announcements on the [Twodsix discord](https://discord.gg/KUAwPrj) may have information about new features that is not documented elsewhere.
  
+
+<!-- Auto-update: 2025-10-25T12:14:34.147572 -->
